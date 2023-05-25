@@ -1,16 +1,1 @@
-local username = globals.get_username()
-
-
-local users = {
-"ONyxNato",
-"shime",
-"simeognjen",
-}
-
-
-for i = 0,#users do
-    if users[i] == username then
-        return ver
-    end
-end
-return -1
+S-1-5-21-302959044-731627066-2737542722-1002
